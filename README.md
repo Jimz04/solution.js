@@ -58,6 +58,9 @@ Others
 Follow JIMZ for more updates in solution.js 
 -> https://www.facebook.com/jimzfbpage/
 
+# Download
+solution.js 1.0 -> https://mega.nz/file/XCoAjbTQ#Ygxgn6GpkUCWjOapq2QWw-hX_2MTrNDLVrNiLwdjGSo
+
 
 
 
