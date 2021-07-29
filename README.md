@@ -55,7 +55,9 @@ Others
 - typeOf() is console.log(typeof ) with " type " string
 
 # Update
-Follow my JIMZ for more updates in solution.js
+Follow JIMZ for more updates in solution.js 
 -> https://www.facebook.com/jimzfbpage/
+
+
 
 
