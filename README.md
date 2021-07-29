@@ -54,3 +54,8 @@ Others
 - cal() is calculator inside the program
 - typeOf() is console.log(typeof ) with " type " string
 
+# Update
+Follow my JIMZ for more updates in solution.js
+-> https://www.facebook.com/jimzfbpage/
+
+
