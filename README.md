@@ -7,6 +7,24 @@ The Programmer don't understand the functions created by JavaScript like appendC
 # THE SOLUTION:
 I create library to translate the functions code in JavaScript to readable and short systax.
 
+# Install
+
+To install <b>solution.js</b> is very simple ang easy just download the file below if a `zip` file extract and cut the `solution.js` file in your project.
+
+# Connect
+
+To connect the file is so simple connect the `solution.js` to <b>HTML</b> 
+
+<b>Example</b>
+
+`<script src="solution.js"><script>`
+
+And connect your main js file
+
+`<script src="main.js"><script>`
+
+`version()` to see the version of your connected solution.js
+
 # Systax
 
 Outputs and Inputs
