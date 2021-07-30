@@ -1,5 +1,7 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/CM6BJ4Y/solution-js-icon.png" alt="solution-js-icon" border="0"></a>
 
+<h1>THE SOLUTION OF YOUR PROBLEM</h1>
+
 # solution.js
 Solution.js is a JavaScript library to make JavaScript simple, readable, and short systax of the functions.
 
