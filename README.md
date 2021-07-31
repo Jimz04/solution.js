@@ -13,7 +13,7 @@ I create library to translate the functions code in JavaScript to readable and s
 
 # Install
 
-To install <b>solution.js</b> is very simple ang easy just download the file below if a `zip` file extract and cut the `solution.js` file in your project.
+To install <b>solution.js</b> is very simple and easy just download the file below if a `zip` file extract and cut the `solution.js` file in your project.
 
 # Connect
 
@@ -75,6 +75,9 @@ Others
 - version() is checking the library version 
 - cal() is calculator inside the program
 - typeOf() is console.log(typeof ) with " type " string
+
+# Example
+Chatting Website -> https://fb.watch/74oEu-iRrr/
 
 # Update
 Follow JIMZ for more updates in solution.js 
