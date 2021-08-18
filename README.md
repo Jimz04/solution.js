@@ -89,7 +89,7 @@ Follow JIMZ for more updates in solution.js
 solution.js 1.0 -> https://mega.nz/file/XCoAjbTQ#Ygxgn6GpkUCWjOapq2QWw-hX_2MTrNDLVrNiLwdjGSo
 
 # Comments
-Comment your simple JavaScript problem solution.js do the best to solve your problem.
+`Comment your simple JavaScript problem solution.js do the best to solve your problem.`
 
 <h1>Thank you and God bless :)</h1>
 
