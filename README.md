@@ -1,4 +1,6 @@
+<center>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/CM6BJ4Y/solution-js-icon.png" alt="solution-js-icon" border="0"></a>
+</center>
 
 <h1>THE SOLUTION OF YOUR PROBLEM</h1>
 
@@ -86,6 +88,10 @@ Follow JIMZ for more updates in solution.js
 # Download
 solution.js 1.0 -> https://mega.nz/file/XCoAjbTQ#Ygxgn6GpkUCWjOapq2QWw-hX_2MTrNDLVrNiLwdjGSo
 
+# Comments
+Comment your simple JavaScript problem solution.js do the best to solve your problem.
+
+<h1>Thank you and God bless :)</h1>
 
 
 
