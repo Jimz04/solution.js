@@ -35,18 +35,18 @@ And connect your main js file
 
 To connect to CDN copy this code and paste in your project: 
 
-`
-<script src="https://jimzweb.000webhostapp.com/solution.js/v1.0/solution.js"></script>
-`
+
+`<script src="https://jimzweb.000webhostapp.com/solution.js/v1.0/solution.js"></script>`
+
 
 
 
 
 
 If you like to connect to other version of solution.js CDN just change the version of the link
-`
-<script src="https://jimzweb.000webhostapp.com/solution.js/CHANGE HERE EXAMPLE : v1.0/solution.js"></script>
-`
+
+`<script src="https://jimzweb.000webhostapp.com/solution.js/CHANGE HERE EXAMPLE : v1.0/solution.js"></script>`
+
 
 `version()` to see the version of your connected solution.js
 
