@@ -15,7 +15,7 @@ I create library to translate the functions code in JavaScript to readable and s
 
 # Install
 
-To install <b>solution.js</b> is just download the file below if a `zip` file extract and cut the `solution.js` file in your project.
+To install <b>solution.js</b> just download the file below if a `zip` file extract and cut the `solution.js` file in your project.
 
 # Connect to solution.js file
 
@@ -42,6 +42,9 @@ To connect to CDN: `<script src="https://jimzweb.000webhostapp.com/solution.js/v
 
 If you like to connect to other version of solution.js CDN just change the version of the link
 -> <b> `<script src="https://jimzweb.000webhostapp.com/solution.js/CHANGE HERE EXAMPLE : v2.0/solution.js"></script>` </b>
+
+
+`version()` to see the version of your connected solution.js
 
 # Systax
 
