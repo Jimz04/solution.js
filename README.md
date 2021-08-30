@@ -35,24 +35,13 @@ And connect your main js file
 
 To connect to CDN: `<script src="https://jimzweb.000webhostapp.com/solution.js/v1.0/solution.js"></script>`
 
-<b>Example</b>
 
-`
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>solution.js</title>
-</head>
-<body>
-		 
-		 
-			
-    <script src="https://jimzweb.000webhostapp.com/solution.js/v1.0/solution.js"></script>
-				
-</html>
-`
 
-If you like to connect to other version of solution.js CDN just change the version of the link -> <b> `<script src="https://jimzweb.000webhostapp.com/solution.js/CHANGE HERE EXAMPLE : v2.0/solution.js"></script>` </b>
+
+
+
+If you like to connect to other version of solution.js CDN just change the version of the link
+-> <b> `<script src="https://jimzweb.000webhostapp.com/solution.js/CHANGE HERE EXAMPLE : v2.0/solution.js"></script>` </b>
 
 # Systax
 
