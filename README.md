@@ -15,11 +15,11 @@ I create library to translate the functions code in JavaScript to readable and s
 
 # Install
 
-To install <b>solution.js</b> is very simple and easy just download the file below if a `zip` file extract and cut the `solution.js` file in your project.
+To install <b>solution.js</b> is just download the file below if a `zip` file extract and cut the `solution.js` file in your project.
 
-# Connect
+# Connect to solution.js file
 
-To connect the file is so simple connect the `solution.js` to <b>HTML</b> 
+To connect the file: connect the `solution.js` to <b>HTML</b> 
 
 <b>Example</b>
 
@@ -30,6 +30,29 @@ And connect your main js file
 `<script src="main.js"><script>`
 
 `version()` to see the version of your connected solution.js
+
+# Connect to CDN in script tag
+
+To connect to CDN: `<script src="https://jimzweb.000webhostapp.com/solution.js/v1.0/solution.js"></script>`
+
+<b>Example</b>
+
+`
+<!DOCTYPE html>
+<html lang="en">
+<head>
+				<title>solution.js</title>
+</head>
+<body>
+		 
+		 
+			
+				<script src="https://jimzweb.000webhostapp.com/solution.js/v1.0/solution.js"></script>
+				
+</html>
+`
+
+If you like to connect to other version of solution.js CDN just change the version of the link -> <b> `<script src="https://jimzweb.000webhostapp.com/solution.js/CHANGE HERE EXAMPLE : v2.0/solution.js"></script>` </b>
 
 # Systax
 
