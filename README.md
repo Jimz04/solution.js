@@ -41,13 +41,13 @@ To connect to CDN: `<script src="https://jimzweb.000webhostapp.com/solution.js/v
 <!DOCTYPE html>
 <html lang="en">
 <head>
-				<title>solution.js</title>
+    <title>solution.js</title>
 </head>
 <body>
 		 
 		 
 			
-				<script src="https://jimzweb.000webhostapp.com/solution.js/v1.0/solution.js"></script>
+    <script src="https://jimzweb.000webhostapp.com/solution.js/v1.0/solution.js"></script>
 				
 </html>
 `
